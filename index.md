@@ -19,9 +19,7 @@ Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantas
 
 ---
 
-## Skills {#skills}
-
-Check out my full skills and endorsements on [LinkedIn](https://www.linkedin.com/in/alexander-t-denton)  
+## Skills
 
 - **Languages:** C#, C++, Java, Python, MATLAB  
 - **Technologies & Frameworks:** WPF (MVVM), JavaFX, Unreal Engine 5, Git  
