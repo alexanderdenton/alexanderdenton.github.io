@@ -1,5 +1,5 @@
 # Alexander Denton 
-**Software Engineering Degree Apprentice | Problem Solver | Proffesional Googler**
+**Software Engineering Degree Apprentice | Problem Solver | Professional Googler**
 
 ## About Me
 
@@ -17,25 +17,25 @@ Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantas
 ## Projects
 
 ### [Duplicate File Locator](https://github.com/Atden04/duplicate-file-locator)  
- ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
 A command-line tool that scans directories, detects duplicate files using hashing, and generates an output of duplicated files for you to handle in your own way.
 
 ---
 
 ### [Finance Manager](https://github.com/Atden04/finance-manager)  
- ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
-A tool to help manage finances (Current Accounts, Savings, Investments, Pensions)
+![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
+A tool to help manage finances: Current Accounts, Savings, Investments, Pensions.
 
 ---
 
 ### [Share Database App](https://github.com/Atden04/ShareDatabaseApp)  
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-purple?style=flat)  
-My first attempt at a finance manager. Focused on JavaFX proof of concept.
+My first attempt at a finance manager. Focused on a JavaFX proof of concept.
 
 ---
 
 ### [A-Level Computer Science NEA](https://github.com/Atden04/A-LevelNEA)  
- ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
-My A-Level Computer Science coursework project — a strong learning experience, where I’d now improve OOP useage and efficiency.
+![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
+My A-Level Computer Science coursework project — a strong learning experience, where I’d now improve OOP usage and efficiency.
 
 ---
