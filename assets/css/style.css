@@ -1,27 +1,16 @@
-/* Dark theme background & text */
-body {
-    background-color: #121212 !important;
-    color: #e0e0e0 !important;
-    font-family: Arial, sans-serif;
+/* Global Styles */
+body, html {
+    background-color: #0d1117; /* GitHub dark background */
+    color: #c9d1d9;           /* Main text color */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     line-height: 1.6;
     margin: 0;
-    padding: 0 20px;
-}
-
-/* Headings */
-h1, h2, h3 {
-    color: #ffffff;
-    margin-top: 1em;
-}
-
-/* Horizontal line */
-hr {
-    border: 1px solid #444;
+    padding: 0;
 }
 
 /* Links */
 a {
-    color: #1e90ff;
+    color: #58a6ff;  /* GitHub link blue */
     text-decoration: none;
 }
 
@@ -29,15 +18,46 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Badge spacing */
-img {
-    margin-right: 5px;
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #c9d1d9;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Horizontal rules */
+hr {
+    border: 0;
+    border-top: 1px solid #30363d;
+    margin: 2em 0;
+}
+
+/* Badges */
+img[src*="shields.io"] {
     vertical-align: middle;
 }
 
-/* Container padding */
+/* Code blocks */
+pre, code {
+    background-color: #161b22;
+    color: #c9d1d9;
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+}
+
+/* Container */
 .container {
     max-width: 900px;
-    margin: auto;
-    padding: 20px;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+/* Project sections */
+.project {
+    margin-bottom: 2em;
+}
+
+/* Optional: make links to GitHub/LinkedIn stand out */
+.badge-link img {
+    margin-right: 0.5em;
 }
