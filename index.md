@@ -3,23 +3,27 @@ layout: default
 title: Alexander Denton
 ---
 
-# Alexander Denton 
+# Alexander Denton
 **Software Engineering Degree Apprentice | Problem Solver | Professional Googler**
 
-## About Me
+## About Me {#about-me}
 
 I’m a Software Engineering Degree Apprentice with a strong background in Computer Science and Maths.  
 I love solving problems, developing creative solutions, and building projects that push me to learn more.  
 
 Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantasy nerd.
 
-**Connect with me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Atden04)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+---
+
+## Skills {#skills}
+
+- **Languages:** C#, C++, Java, Python, MATLAB  
+- **Technologies & Frameworks:** WPF (MVVM), JavaFX, Unreal Engine 5, Git  
+- **Other:** Problem solving, Algorithms, Object-Oriented Design
 
 ---
 
-## Projects
+## Projects {#projects}
 
 ### [Duplicate File Locator](https://github.com/Atden04/duplicate-file-locator)  
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
@@ -44,3 +48,9 @@ My first attempt at a finance manager. Focused on a JavaFX proof of concept.
 My A-Level Computer Science coursework project — a strong learning experience, where I’d now improve OOP usage and efficiency.
 
 ---
+
+## Contact {#contact}
+
+**Connect with me:**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Atden04)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
