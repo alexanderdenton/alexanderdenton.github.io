@@ -12,14 +12,7 @@ Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atden04)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 
-
-## Projects
-* [Duplicate File Locator](https://github.com/Atden04/duplicate-file-locator)
-* [Finance Manager](https://github.com/Atden04/finance-manager)
-* [Share Database App](https://github.com/Atden04/ShareDatabaseApp)
-  * First attempt at the Finace Manager using Java and JavaFX
-* [A-Level Computer Science NEA](https://github.com/Atden04/A-LevelNEA)
- * Submission for my A-Level NEA. Looking back there are many improvements that could be made.
+---
 
 ## Projects
 
@@ -45,20 +38,6 @@ My first attempt at a finance manager. Focused on JavaFX proof of concept.
 ### [A-Level Computer Science NEA](https://github.com/Atden04/A-LevelNEA)  
 🔹 **Tech:** C#  
 My A-Level Computer Science coursework project — a strong learning experience, where I’d now improve OOP useage and efficiency.
-
-
-# 👋 Hi, I’m [Your Name]
-
-## About Me
-
-I’m a Software Engineering Degree Apprentice with a strong background in Computer Science and Maths.  
-I love solving problems, developing creative solutions, and building projects that push me to learn more.  
-
-Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantasy nerd.  
-
-**Connect with me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atden04)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 
 ---
 
