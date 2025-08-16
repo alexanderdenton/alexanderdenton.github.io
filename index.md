@@ -1,3 +1,8 @@
+---
+layout: default
+title: Alexander Denton
+---
+
 # Alexander Denton 
 **Software Engineering Degree Apprentice | Problem Solver | Professional Googler**
 
