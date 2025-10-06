@@ -14,7 +14,7 @@ I love solving problems, developing creative solutions, and building projects th
 Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantasy nerd.
 
 **Connect with me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Atden04)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexanderdenton)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-t-denton)
 
 ---
@@ -35,13 +35,13 @@ A command-line tool that scans directories, detects duplicate files using hashin
 
 ---
 
-### [Finance Manager](https://github.com/Atden04/finance-manager)  
+### [Finance Manager](https://github.com/alexanderdenton/finance-manager)  
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
 A tool to help manage finances (Current Accounts, Savings, Investments, Pensions)
 
 ---
 
-### [Share Database App](https://github.com/Atden04/ShareDatabaseApp)  
+### [Share Database App](https://github.com/alexanderdenton/ShareDatabaseApp)  
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-purple?style=flat)  
 My first attempt at a finance manager. Focused on JavaFX proof of concept.
 
