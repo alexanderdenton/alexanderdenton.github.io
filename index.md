@@ -29,7 +29,7 @@ Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantas
 
 ## Projects
 
-### [Duplicate File Locator](https://github.com/Atden04/duplicate-file-locator)  
+### [Duplicate File Locator](https://alexanderdenton.dev/duplicate-file-locator)  
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
 A command-line tool that scans directories, detects duplicate files using hashing, and generates an output of duplicated files for you to handle in your own way.
 
