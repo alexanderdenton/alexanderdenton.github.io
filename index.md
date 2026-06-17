@@ -3,7 +3,7 @@ layout: default
 title: Alexander Denton
 ---
 
-# Alexander Denton
+# Alexander Denton BEng (Hons)
 **Software Engineering Degree Apprentice | Problem Solver | Professional Googler**
 
 ## About Me
