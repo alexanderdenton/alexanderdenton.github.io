@@ -14,8 +14,7 @@ I love solving problems, developing creative solutions, and building projects th
 Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantasy nerd.
 
 **Connect with me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexanderdenton)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandertdenton)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexanderdenton) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandertdenton)
 
 ---
 
