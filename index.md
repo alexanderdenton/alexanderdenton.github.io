@@ -26,7 +26,18 @@ Outside of coding, I’m a drummer, vinyl collector, and all-round sci-fi/fantas
 
 ---
 
-## Projects
+## Featured Projects
+
+### [RoboMaze](https://robomaze.alexanderdenton.dev)  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![BBC micro:bit](https://img.shields.io/badge/BBC%20micro%3Abit-000000?logo=microbit&logoColor=white)  
+
+An educational coding activity for secondary-school students using the BBC micro:bit and Kitronik :MOVE Motor.
+
+Students calibrate motor behaviour, use an ultrasonic sensor, adapt existing Python functions, and sequence commands to navigate a MicroMouse through a maze.
+
+Includes a pupil-facing GitHub Pages website, starter code, cheat sheet, instructions, and a completed solution.
+
+---
 
 ### [Duplicate File Locator](https://alexanderdenton.dev/duplicate-file-locator)  
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp&logoColor=white)  
